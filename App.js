@@ -11,6 +11,8 @@ import User from "./pages/User";
 
 function App() {
   //snir
+  console.log('snir');
+  console.log('snir');
   return (
     
     <GithubProvider>
